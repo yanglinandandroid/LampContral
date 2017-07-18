@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="1600dp"
+    android:layout_height="1000dp"
+    android:orientation="vertical" >
+
+   <EditText
+        android:id="@+id/scene_id_update"
+        android:layout_width="279dp"
+        android:layout_height="wrap_content"
+        android:layout_x="271dp"
+        android:layout_y="75dp"
+         android:numeric="integer"
+        android:ems="10" />
+
+    <TextView
+        android:id="@+id/lig_update"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="44dp"
+        android:layout_y="75dp"
+        android:text="Scene ID:"
+        android:textSize="30dp" />
+
+    <TextView
+        android:id="@+id/textView1_update"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="44dp"
+        android:layout_y="26dp"
+        android:text="Scene Name:"
+        android:textSize="30dp" />
+
+    <EditText
+        android:id="@+id/scene_name_update"
+        android:layout_width="279dp"
+        android:layout_height="wrap_content"
+        android:layout_x="272dp"
+        android:layout_y="23dp"
+        android:ems="10" />
+
+    <ListView
+        android:id="@+id/listView_scene_light_update"
+        android:layout_width="508dp"
+        android:layout_height="190dp"
+        android:layout_x="44dp"
+        android:layout_y="125dp" >
+    </ListView>
+
+</AbsoluteLayout>

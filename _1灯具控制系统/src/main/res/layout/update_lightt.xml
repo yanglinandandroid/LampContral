@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="1600dp"
+    android:layout_height="1000dp"
+    android:orientation="vertical" >
+
+    <EditText
+        android:id="@+id/light_name_update"
+        android:layout_width="279dp"
+        android:layout_height="wrap_content"
+        android:layout_x="272dp"
+        android:layout_y="23dp"
+        android:ems="10" />
+
+    <EditText
+        android:id="@+id/light_id_update"
+        android:layout_width="279dp"
+        android:layout_height="wrap_content"
+        android:layout_x="272dp"
+        android:layout_y="85dp"
+         android:numeric="integer"
+        android:ems="10" >
+
+        <requestFocus />
+    </EditText>
+
+    <Spinner
+        android:id="@+id/spinner_group_update"
+        android:layout_width="279dp"
+        android:layout_height="48dp"
+        android:layout_x="272dp"
+        android:layout_y="147dp" />
+
+    <Spinner
+        android:id="@+id/spinner_control_update"
+        android:layout_width="279dp"
+        android:layout_height="48dp"
+        android:layout_x="272dp"
+        android:layout_y="213dp" />
+
+    <TextView
+        android:id="@+id/lig"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="50dp"
+        android:layout_y="86dp"
+        android:text="Light Addr(Hex):"
+        android:textSize="30dp" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="50dp"
+        android:layout_y="26dp"
+        android:text="Light Name:"
+        android:textSize="30dp" />
+
+    <TextView
+        android:id="@+id/TextView01"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="50dp"
+        android:layout_y="150dp"
+        android:text="Group Name:"
+        android:textSize="30dp" />
+
+    <TextView
+        android:id="@+id/TextView02"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="50dp"
+        android:layout_y="219dp"
+        android:text="Controller Name:"
+        android:textSize="30dp" />
+
+</AbsoluteLayout>

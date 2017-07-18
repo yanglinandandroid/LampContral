@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "C:\\Users\\whitcast\\AndroidStudioProjects\\MyApplication\\_1灯具控制系统\\build\\intermediates\\res\\merged\\debug\\layout\\update_controller.xml",
+        "source": "C:\\Users\\whitcast\\AndroidStudioProjects\\MyApplication\\_1灯具控制系统\\src\\main\\res\\layout\\update_controller.xml"
+    },
+    {
+        "merged": "C:\\Users\\whitcast\\AndroidStudioProjects\\MyApplication\\_1灯具控制系统\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ctrl.xml",
+        "source": "C:\\Users\\whitcast\\AndroidStudioProjects\\MyApplication\\_1灯具控制系统\\src\\main\\res\\layout\\activity_ctrl.xml"
+    },
+    {
+        "merged": "C:\\Users\\whitcast\\AndroidStudioProjects\\MyApplication\\_1灯具控制系统\\build\\intermediates\\res\\merged\\debug\\layout\\add_controller.xml",
+        "source": "C:\\Users\\whitcast\\AndroidStudioProjects\\MyApplication\\_1灯具控制系统\\src\\main\\res\\layout\\add_controller.xml"
+    },
+    {
+        "merged": "C:\\Users\\whitcast\\AndroidStudioProjects\\MyApplication\\_1灯具控制系统\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group.xml",
+        "source": "C:\\Users\\whitcast\\AndroidStudioProjects\\MyApplication\\_1灯具控制系统\\src\\main\\res\\layout\\activity_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\whitcast\\AndroidStudioProjects\\MyApplication\\_1灯具控制系统\\build\\intermediates\\res\\merged\\debug\\layout\\add_group.xml",
+        "source": "C:\\Users\\whitcast\\AndroidStudioProjects\\MyApplication\\_1灯具控制系统\\src\\main\\res\\layout\\add_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\whitcast\\AndroidStudioProjects\\MyApplication\\_1灯具控制系统\\build\\intermediates\\res\\merged\\debug\\layout\\scene_add_item.xml",
+        "source": "C:\\Users\\whitcast\\AndroidStudioProjects\\MyApplication\\_1灯具控制系统\\src\\main\\res\\layout\\scene_add_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\whitcast\\AndroidStudioProjects\\MyApplication\\_1灯具控制系统\\build\\intermediates\\res\\merged\\debug\\layout\\activity_light.xml",
+        "source": "C:\\Users\\whitcast\\AndroidStudioProjects\\MyApplication\\_1灯具控制系统\\src\\main\\res\\layout\\activity_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\whitcast\\AndroidStudioProjects\\MyApplication\\_1灯具控制系统\\build\\intermediates\\res\\merged\\debug\\layout\\activity_scene.xml",
+        "source": "C:\\Users\\whitcast\\AndroidStudioProjects\\MyApplication\\_1灯具控制系统\\src\\main\\res\\layout\\activity_scene.xml"
+    },
+    {
+        "merged": "C:\\Users\\whitcast\\AndroidStudioProjects\\MyApplication\\_1灯具控制系统\\build\\intermediates\\res\\merged\\debug\\layout\\picture_item.xml",
+        "source": "C:\\Users\\whitcast\\AndroidStudioProjects\\MyApplication\\_1灯具控制系统\\src\\main\\res\\layout\\picture_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\whitcast\\AndroidStudioProjects\\MyApplication\\_1灯具控制系统\\build\\intermediates\\res\\merged\\debug\\layout\\listview_item_tree.xml",
+        "source": "C:\\Users\\whitcast\\AndroidStudioProjects\\MyApplication\\_1灯具控制系统\\src\\main\\res\\layout\\listview_item_tree.xml"
+    },
+    {
+        "merged": "C:\\Users\\whitcast\\AndroidStudioProjects\\MyApplication\\_1灯具控制系统\\build\\intermediates\\res\\merged\\debug\\layout\\add_light.xml",
+        "source": "C:\\Users\\whitcast\\AndroidStudioProjects\\MyApplication\\_1灯具控制系统\\src\\main\\res\\layout\\add_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\whitcast\\AndroidStudioProjects\\MyApplication\\_1灯具控制系统\\build\\intermediates\\res\\merged\\debug\\layout\\scene_update_item.xml",
+        "source": "C:\\Users\\whitcast\\AndroidStudioProjects\\MyApplication\\_1灯具控制系统\\src\\main\\res\\layout\\scene_update_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\whitcast\\AndroidStudioProjects\\MyApplication\\_1灯具控制系统\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ip.xml",
+        "source": "C:\\Users\\whitcast\\AndroidStudioProjects\\MyApplication\\_1灯具控制系统\\src\\main\\res\\layout\\activity_ip.xml"
+    },
+    {
+        "merged": "C:\\Users\\whitcast\\AndroidStudioProjects\\MyApplication\\_1灯具控制系统\\build\\intermediates\\res\\merged\\debug\\layout\\picture_item_scene.xml",
+        "source": "C:\\Users\\whitcast\\AndroidStudioProjects\\MyApplication\\_1灯具控制系统\\src\\main\\res\\layout\\picture_item_scene.xml"
+    },
+    {
+        "merged": "C:\\Users\\whitcast\\AndroidStudioProjects\\MyApplication\\_1灯具控制系统\\build\\intermediates\\res\\merged\\debug\\layout\\picture_item_light.xml",
+        "source": "C:\\Users\\whitcast\\AndroidStudioProjects\\MyApplication\\_1灯具控制系统\\src\\main\\res\\layout\\picture_item_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\whitcast\\AndroidStudioProjects\\MyApplication\\_1灯具控制系统\\build\\intermediates\\res\\merged\\debug\\layout\\add_scene.xml",
+        "source": "C:\\Users\\whitcast\\AndroidStudioProjects\\MyApplication\\_1灯具控制系统\\src\\main\\res\\layout\\add_scene.xml"
+    },
+    {
+        "merged": "C:\\Users\\whitcast\\AndroidStudioProjects\\MyApplication\\_1灯具控制系统\\build\\intermediates\\res\\merged\\debug\\layout\\update_lightt.xml",
+        "source": "C:\\Users\\whitcast\\AndroidStudioProjects\\MyApplication\\_1灯具控制系统\\src\\main\\res\\layout\\update_lightt.xml"
+    },
+    {
+        "merged": "C:\\Users\\whitcast\\AndroidStudioProjects\\MyApplication\\_1灯具控制系统\\build\\intermediates\\res\\merged\\debug\\layout\\activity_light_tree.xml",
+        "source": "C:\\Users\\whitcast\\AndroidStudioProjects\\MyApplication\\_1灯具控制系统\\src\\main\\res\\layout\\activity_light_tree.xml"
+    },
+    {
+        "merged": "C:\\Users\\whitcast\\AndroidStudioProjects\\MyApplication\\_1灯具控制系统\\build\\intermediates\\res\\merged\\debug\\layout\\update_group.xml",
+        "source": "C:\\Users\\whitcast\\AndroidStudioProjects\\MyApplication\\_1灯具控制系统\\src\\main\\res\\layout\\update_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\whitcast\\AndroidStudioProjects\\MyApplication\\_1灯具控制系统\\build\\intermediates\\res\\merged\\debug\\layout\\activity_controller.xml",
+        "source": "C:\\Users\\whitcast\\AndroidStudioProjects\\MyApplication\\_1灯具控制系统\\src\\main\\res\\layout\\activity_controller.xml"
+    },
+    {
+        "merged": "C:\\Users\\whitcast\\AndroidStudioProjects\\MyApplication\\_1灯具控制系统\\build\\intermediates\\res\\merged\\debug\\layout\\pivture_item_group.xml",
+        "source": "C:\\Users\\whitcast\\AndroidStudioProjects\\MyApplication\\_1灯具控制系统\\src\\main\\res\\layout\\pivture_item_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\whitcast\\AndroidStudioProjects\\MyApplication\\_1灯具控制系统\\build\\intermediates\\res\\merged\\debug\\layout\\update_scene.xml",
+        "source": "C:\\Users\\whitcast\\AndroidStudioProjects\\MyApplication\\_1灯具控制系统\\src\\main\\res\\layout\\update_scene.xml"
+    }
+]
